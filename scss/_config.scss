@@ -1,0 +1,16 @@
+$website-width: 1280px;
+$primary-color: #ed8110;
+$secondary-color: #8110ed;
+$light-color: #f4f4f4;
+$medium-color: #ccc;
+$dark-color: #333;
+$bcb: linear-gradient(to right, $primary-color, $secondary-color);
+
+// Set text color
+//  todo @function set-text-color($color) {
+//   @if (lightness($color) > 50) {
+//     @return #000;
+//   } @else {
+//     @return #fff;
+//   }
+// }
